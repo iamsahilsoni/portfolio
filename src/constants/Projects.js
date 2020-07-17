@@ -5,12 +5,12 @@ export const projects = {
         {
             name: "This App || React ",
             description: "Used React for making this Resume cum Portfolio. Simple App but i learnt about props and states and other important things. so basically i can make basic react website now.",
-            link: " ) "
+            link: "iamsahilsoni.github.io/portfolio"
         }, 
         {
             name: "Face Attendance || OpenCV ",
             description: "After Learning Python, i came accross this cool Library OpenCV. So i thought of new features in this. Can be used by Teachers to record Attendance , just need one photo of Student, and Excel of students present along with time is generated.",
-            link: "https://github.com/iamsahilsoni/Face_Attendance"
+            link: "https://bit.ly/3eLoBmN"
         },
         {
             name: "Deep learning based image classification for intestinal hemorrhage || Research Paper || CNN || ML",

@@ -11,7 +11,7 @@ export const SectionContainer =({selectedHeading,selectedQuote,selectedSection})
                 <h1 className="main-heading">{selectedHeading}</h1>
                 <p className="main-quote">{selectedQuote}</p>
             </div>
-            <div>
+            <div className>
                 {
                     {
                         "about":<About/>,
