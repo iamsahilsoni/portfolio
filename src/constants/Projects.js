@@ -5,7 +5,7 @@ export const projects = {
         {
             name: "This App || React ",
             description: "Used React for making this Resume cum Portfolio. Simple App but i learnt about props and states and other important things. so basically i can make basic react website now.",
-            link: "iamsahilsoni.github.io/portfolio"
+            link: "https://iamsahilsoni.github.io/portfolio"
         }, 
         {
             name: "Face Attendance || OpenCV ",
